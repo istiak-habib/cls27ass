@@ -1,0 +1,1067 @@
+@media (max-width: 1200px) {
+    .contact-map iframe {
+        width: 500px;
+    }
+    .contact-map {
+        width: 39%;
+    }
+    .contact-form {
+        width: 49%;
+    }
+    .message {
+        width: 74%;
+    }
+    .c-email {
+        width: 85%;
+    }
+    .project-item p {
+        font-size: 20px;
+    }
+    .s-content p {
+        font-size: 18px;
+    }
+    .bottom-left iframe {
+        width: 480px;
+    }
+    .bottom-right {
+        width: 49%;
+    }
+    .bottom-left {
+        width: 49%;
+    }
+    .bottom-right h1 {
+        font-size: 45px;
+    }
+    .user-box p {
+        font-size: 19px;
+    }
+    .banner-bottom {
+        padding: 100px 20px;
+    }
+    .enployee {
+        padding: 100px 10px;
+    }
+    .user {
+        padding: 80px 10px;
+    }
+    .contact {
+        padding: 60px 10px;
+    }
+    .team {
+        padding: 20px 10px;
+    }
+    .project {
+        padding: 50px 10px;
+    }
+    .service {
+        padding: 80px 10px;
+    }
+}
+
+@media (max-width: 1060px) {
+    .header-menu {
+        width: 50%;
+    }
+    .header-button {
+        width: 20%;
+    }
+    .header-button a {
+        font-size: 14px;
+    }
+    .header-menu ul li {
+        padding: 15px 16px;
+    }
+    .header-logo a h1 {
+        margin-top: 15px;
+        font-size: 25px;
+    }
+    .header-logo a img {
+        width: 40px;
+        margin-top: 10px;
+    }
+    .banner button a {
+        padding: 18px 20px;
+        font-size: 18px;
+    }
+    .banner h1 {
+        font-size: 60px;
+    }
+    .project-all {
+        height: 850px;
+    }
+    .project-head h1 {
+        font-size: 50px;
+    }
+    .project-head h6 {
+        font-size: 22px;
+    }
+    .project-item h3 {
+        font-size: 25px;
+    }
+    .project-item h2 b {
+        font-size: 50px;
+    }
+    .project-item h2 b {
+        font-size: 40px;
+    }
+    .project-item p {
+        font-size: 15px;
+    }
+    .list1 li {
+        font-size: 20px;
+        padding-bottom: 20px;
+    }
+    .list2 li {
+        font-size: 20px;
+        padding-bottom: 20px;
+    }
+    .banner-bottom {
+        padding: 100px 20px;
+    }
+    .bottom-left iframe {
+        width: 450px;
+    }
+    .bottom-right h1 {
+        font-size: 37px;
+    }
+    .bottom-right p {
+        font-size: 16px;
+    }
+    .service h1 {
+        font-size: 45px;
+    }
+    .service p {
+        font-size: 18px;
+    }
+    .s-content h2 {
+        font-size: 18px;
+    }
+    .p-button button {
+        font-size: 15px;
+        padding: 12px 25px;
+    }
+    .user-box {
+        padding: 40px;
+    }
+    .user-box p::before {
+        left: -15px;
+    }
+    .t-pic h2 {
+        font-size: 25px;
+    }
+    .t-pic h3 {
+        font-size: 18px;
+    }
+    .t-pic {
+        height: 380px;
+    }
+    .subscribe h3 {
+        font-size: 25px;
+    }
+    .subscribe h1 {
+        font-size: 44px;
+    }
+    .s-email {
+        width: 300px;
+        height: 55px;
+    }
+    .submit {
+        width: 200px;
+        height: 60px;
+    }
+    .enployee {
+        padding: 100px 10px;
+    }
+    .e-para h1 {
+        font-size: 44px;
+    }
+    .e-para p {
+        font-size: 19px;
+    }
+    .e-text h2 {
+        font-size: 25px;
+    }
+    .e-text h5 {
+        font-size: 17px;
+    }
+    .user {
+        padding: 80px 10px;
+    }
+    .user-head h1 {
+        font-size: 38px;
+    }
+    .user-box p {
+        font-size: 17px;
+    }
+    .c-email {
+        width: 94%;
+    }
+    .message {
+        width: 82%;
+    }
+    .contact-map iframe {
+        width: 430px;
+        height: 530px;
+    }
+    .contact-map {
+        width: 35%;
+    }
+    .contact-form {
+        width: 53%;
+        padding-top: 20px;
+    }
+    .contact-form h1 {
+        font-size: 35px;
+    }
+    .contact-form p {
+        font-size: 17px;
+    }
+    .c-email {
+        width: 94%;
+        height: 45px;
+    }
+    .c-name {
+        height: 45px;
+    }
+    .c-nubmber {
+        width: 206px;
+        height: 45px;
+    }
+    .message {
+        width: 82%;
+        height: 60px;
+    }
+    .send {
+        margin-top: 20px;
+        padding: 12px 200px;
+        font-size: 25px;
+    }
+    .contact {
+        padding: 60px 10px;
+    }
+    .team {
+        padding: 20px 10px;
+    }
+    .project {
+        padding: 50px 10px;
+    }
+    .service {
+        padding: 80px 10px;
+    }
+}
+
+@media (max-width: 950px) {
+    .header-menu {
+        width: 50%;
+    }
+    .header-button {
+        width: 20%;
+    }
+    .header-button a {
+        font-size: 14px;
+    }
+    .header-menu ul li {
+        padding: 15px 16px;
+    }
+    .header-logo a h1 {
+        margin-top: 15px;
+        font-size: 22px;
+    }
+    .header-logo a img {
+        width: 40px;
+        margin-top: 10px;
+    }
+    .banner {
+        padding: 100px 0px;
+    }
+    .banner button a {
+        padding: 18px 20px;
+        font-size: 18px;
+    }
+    .banner h1 {
+        font-size: 60px;
+    }
+    .project-all {
+        height: 800px;
+    }
+    .project-head h1 {
+        font-size: 40px;
+    }
+    .project-head h6 {
+        font-size: 18px;
+    }
+    .project-item h3 {
+        font-size: 25px;
+    }
+    .project-item h2 b {
+        font-size: 30px;
+    }
+    .project-item p {
+        font-size: 12px;
+    }
+    .list1 li {
+        font-size: 16px;
+        padding-bottom: 20px;
+    }
+    .list1 li::before {
+        font-size: 25px;
+    }
+    .list2 li::before {
+        font-size: 25px;
+    }
+    .list1 li {
+        font-size: 20px;
+        padding-bottom: 20px;
+    }
+    .list2 li {
+        font-size: 20px;
+        padding-bottom: 20px;
+    }
+    .banner-bottom {
+        padding: 50px 20px;
+    }
+    .bottom-left iframe {
+        width: 410px;
+    }
+    .bottom-right h1 {
+        font-size: 25px;
+        padding-bottom: 20px;
+        margin-top: 15px;
+    }
+    .bottom-right {
+        width: 44%;
+    }
+    .bottom-left {
+        width: 55%;
+    }
+    .bottom-right p {
+        font-size: 16px;
+        line-height: 35px;
+    }
+    .service h1 {
+        font-size: 35px;
+    }
+    .s-icon span {
+        font-size: 25px;
+    }
+    .s-icon {
+        padding-right: 20px;
+    }
+    .service p {
+        font-size: 17px;
+        line-height: 30px;
+    }
+    .s-content h2 {
+        font-size: 18px;
+        padding-bottom: 15px;
+    }
+    .p-button button {
+        font-size: 15px;
+        padding: 12px 25px;
+    }
+    .user-box {
+        padding: 40px;
+    }
+    .user-box p::before {
+        left: -15px;
+    }
+    .t-pic h2 {
+        font-size: 20px;
+    }
+    .t-pic h3 {
+        font-size: 15px;
+    }
+    .t-pic {
+        height: 290px;
+    }
+    .subscribe {
+        padding: 50px 0px;
+    }
+    .subscribe h3 {
+        font-size: 22px;
+    }
+    .subscribe h1 {
+        font-size: 40px;
+    }
+    .s-email {
+        width: 300px;
+        height: 55px;
+    }
+    .submit {
+        width: 200px;
+        height: 60px;
+    }
+    .e-text {
+        width: 50%;
+        padding: 20px 30px;
+        box-sizing: border-box;
+    }
+    .enployee {
+        padding: 50px 10px;
+    }
+    .e-para h1 {
+        font-size: 44px;
+    }
+    .e-para p {
+        font-size: 19px;
+    }
+    .e-text h2 {
+        font-size: 25px;
+    }
+    .e-text h5 {
+        font-size: 17px;
+    }
+    .user {
+        padding: 50px 10px;
+    }
+    .user-head h1 {
+        font-size: 38px;
+    }
+    .user-box p {
+        font-size: 17px;
+    }
+    .c-email {
+        width: 90%;
+        height: 45px;
+    }
+    .message {
+        width: 82%;
+    }
+    .contact-map iframe {
+        width: 361px;
+        height: 530px;
+    }
+    .contact-map {
+        width: 47%;
+        margin-right: 0;
+    }
+    .contact-form {
+        width: 53%;
+        padding-top: 20px;
+    }
+    .contact-form h1 {
+        font-size: 35px;
+    }
+    .contact-form p {
+        font-size: 17px;
+    }
+    .c-name {
+        height: 45px;
+        width: 43%;
+    }
+    .c-nubmber {
+        width: 41%;
+        height: 45px;
+    }
+    .message {
+        width: 75%;
+        height: 60px;
+    }
+    .send {
+        margin-top: 20px;
+        padding: 12px 155px;
+        font-size: 25px;
+    }
+    .contact {
+        padding: 60px 10px;
+    }
+    .team {
+        padding: 20px 10px;
+    }
+    .project {
+        padding: 50px 10px;
+    }
+    .service {
+        padding: 50px 10px;
+    }
+}
+
+@media (max-width:770px) {
+    .header {
+        padding: 0px;
+    }
+    .banner {
+        margin-top: 0px;
+    }
+    .header-logo a img {
+        width: 30px;
+    }
+    .header-logo a h1 {
+        margin-top: 15px;
+        font-size: 16px;
+    }
+    .header-logo {
+        width: 26%;
+    }
+    .header-menu {
+        width: 54%;
+    }
+    .header-menu ul li {
+        padding: 15px 5px;
+    }
+    .header-menu ul li a {
+        font-size: 16px;
+    }
+    .header-button {
+        width: 20%;
+    }
+    .header-button a {
+        font-size: 10px;
+    }
+    .banner {
+        padding: 65px 0px;
+    }
+    .banner h6 {
+        font-size: 22px;
+    }
+    .banner h1 {
+        font-size: 45px;
+    }
+    .banner button a {
+        padding: 10px 12px;
+        font-size: 15px;
+    }
+    .bottom-left iframe {
+        width: 355px;
+    }
+    .bottom-left iframe {
+        width: 355px;
+        height: 200px;
+    }
+    .bottom-right h1 {
+        font-size: 20px;
+        padding-bottom: 10px;
+        margin-top: 0px;
+    }
+    .bottom-right p {
+        font-size: 13px;
+        line-height: 23px;
+    }
+    .s-box {
+        padding: 20px 15px;
+        height: 150px;
+    }
+    .s-icon {
+        padding-right: 10px;
+    }
+    .service p {
+        font-size: 15px;
+        line-height: 25px;
+        padding-bottom: 30px;
+    }
+    .service h1 {
+        font-size: 25px;
+        padding-bottom: 15px;
+    }
+    .service {
+        padding: 30px 10px;
+    }
+    .project-item h3 {
+        font-size: 20px;
+        padding-bottom: 15px;
+    }
+    .project-item h2 {
+        padding-bottom: 10px;
+        font-size: 15px;
+    }
+    .project-head h1 {
+        font-size: 30px;
+        padding-bottom: 10px;
+    }
+    .project-head h6 {
+        font-size: 15px;
+    }
+    .project-item p {
+        font-size: 10px;
+        line-height: 20px;
+    }
+    .project-item {
+        padding: 20px 15px;
+    }
+    .project-list {
+        padding: 20px 15px;
+    }
+    .project-all {
+        height: 530px;
+    }
+    .project {
+        padding: 30px 10px;
+    }
+    .list1 li::before {
+        font-size: 18px;
+    }
+    .list2 li::before {
+        font-size: 18px;
+    }
+    .list1 li {
+        font-size: 15px;
+        padding-bottom: 10px;
+    }
+    .list2 li {
+        font-size: 15px;
+        padding-bottom: 10px;
+    }
+    .t-head {
+        padding: 20px 0px;
+    }
+    .t-head h1 {
+        font-size: 25px;
+    }
+    .t-pic {
+        height: 225px;
+    }
+    .t-pic h2 {
+        font-size: 15px;
+        padding-top: 10px;
+    }
+    .t-pic h3 {
+        font-size: 10px;
+        padding-top: 8px;
+    }
+    .team {
+        padding: 0px 10px;
+    }
+    .subscribe {
+        padding: 30px 0px;
+    }
+    .subscribe h3 {
+        font-size: 18px;
+        padding-bottom: 5px;
+    }
+    .subscribe h1 {
+        font-size: 32px;
+        padding-bottom: 25px;
+    }
+    .s-email {
+        width: 200px;
+        height: 40px;
+    }
+    .submit {
+        width: 130px;
+        height: 48px;
+        font-size: 20px;
+    }
+    .enployee {
+        padding: 30px 10px;
+    }
+    .e-para h1 {
+        font-size: 35px;
+        margin-top: 30px;
+    }
+    .e-para p {
+        font-size: 16px;
+        line-height: 25px;
+    }
+    .e-para {
+        width: 50%;
+        padding-bottom: 30px;
+    }
+    .e-text {
+        padding: 15px 10px;
+    }
+    .e-text h2 {
+        font-size: 20px;
+        margin-bottom: 10px;
+    }
+    .e-text h5 {
+        font-size: 13px;
+        padding-bottom: 0px;
+        line-height: 25px;
+    }
+    .e-pic img {
+        height: 140px;
+    }
+    .e-box {
+        height: 140px;
+    }
+    .user {
+        padding: 30px 10px;
+    }
+    .user-head h2 {
+        font-size: 20px;
+        padding-bottom: 0px;
+    }
+    .user-head h1 {
+        font-size: 20px;
+    }
+    .user-head {
+        padding-bottom: 30px;
+    }
+    .user-box {
+        padding: 15px;
+    }
+    .user-box p::before {
+        left: -5px;
+        font-size: 60px;
+        top: 0px;
+    }
+    .user-box p {
+        font-size: 15px;
+        line-height: 25px;
+    }
+    .user-box {
+        padding: 20px 15px;
+        height: 190px;
+    }
+    .user-pic {
+        margin-right: 5px;
+    }
+    .user-pic img {
+        width: 40px;
+    }
+    .user-text h3 {
+        font-size: 15px;
+        padding-bottom: 5px;
+    }
+    .user-text h4 {
+        font-size: 13px;
+    }
+    .user-id {
+        padding: 0px 30px;
+    }
+    .user-text {
+        margin-top: 0px;
+    }
+    .contact {
+        padding: 30px 10px;
+    }
+    .contact-form {
+        padding: 0px 30px;
+        box-sizing: border-box;
+    }
+    .contact-form h1 {
+        font-size: 25px;
+        padding-bottom: 5px;
+    }
+    .contact-form p {
+        font-size: 14px;
+        line-height: 25px;
+        padding-bottom: 10px;
+    }
+    .c-email {
+        width: 100%;
+        height: 30px;
+        padding: 0px 10px;
+        font-size: 15px;
+    }
+    .c-name {
+        height: 30px;
+        width: 49%;
+        margin-right: 2%;
+        font-size: 15px;
+        padding: 0px 10px;
+    }
+    .c-nubmber {
+        width: 47%;
+        height: 30px;
+        padding: 0px 10px;
+        font-size: 15px;
+    }
+    .message {
+        width: 93%;
+        height: 60px;
+        padding: 10px;
+        font-size: 15px;
+    }
+    .send {
+        margin-top: 20px;
+        padding: 8px 146px;
+        font-size: 15px;
+        letter-spacing: 2px;
+    }
+    .contact-map iframe {
+        width: 350px;
+        height: 300px;
+    }
+    .contact-map {
+        margin-top: 35px;
+    }
+    .footer h1 {
+        font-size: 14px;
+    }
+}
+
+@media (max-width: 580px) {
+    .header-logo a img {
+        width: 25px;
+    }
+    .header-logo a h1 {
+        font-size: 12px;
+    }
+    .header-menu ul li a {
+        font-size: 14px;
+    }
+    .header-menu {
+        width: 50%;
+    }
+    .header-button {
+        width: 24%;
+    }
+    .header-button a {
+        font-size: 14px;
+        padding: 5px 12px;
+        margin-top: 3px;
+    }
+    .banner h6 {
+        font-size: 18px;
+        margin-top: 50px;
+    }
+    .banner h1 {
+        font-size: 40px;
+        padding: 10px 0px;
+        margin-bottom: 20px;
+    }
+    .banner button {
+        margin-right: 5px;
+    }
+    .banner button a {
+        padding: 8px 10px;
+        font-size: 12px;
+    }
+    .banner-bottom {
+        padding: 25px 20px;
+    }
+    .bottom-left iframe {
+        width: 295px;
+    }
+    .bottom-right {
+        width: 44%;
+        padding: 10px;
+        box-sizing: border-box;
+    }
+    .bottom-right h1 {
+        font-size: 17px;
+    }
+    .bottom-right p {
+        font-size: 10px;
+        line-height: 18px;
+    }
+    .service {
+        padding: 20px 10px;
+    }
+    .service h1 {
+        font-size: 20px;
+        padding-bottom: 8px;
+    }
+    .s-box {
+        padding: 10px;
+        height: 100px;
+    }
+    .s-icon span {
+        font-size: 20px;
+    }
+    .s-content h2 {
+        font-size: 12px;
+        padding-bottom: 10px;
+    }
+    .service p {
+        font-size: 11px;
+        line-height: 20px;
+        padding-bottom: 20px;
+    }
+    .project {
+        padding: 20px 10px;
+    }
+    .project-head h1 {
+        font-size: 22px;
+    }
+    .project-head h6 {
+        font-size: 12px;
+    }
+    .project-head {
+        text-align: center;
+        padding-bottom: 25px;
+    }
+    .project-item {
+        padding: 10px;
+    }
+    .project-item h3 {
+        font-size: 15px;
+        padding-bottom: 5px;
+    }
+    .project-item h2 b {
+        font-size: 25px;
+    }
+    .project-item h2 {
+        padding-bottom: 5px;
+        font-size: 12px;
+    }
+    .project-item h5 {
+        font-size: 17px;
+        padding-bottom: 10px;
+    }
+    .project-list {
+        padding: 10px;
+    }
+    .list1 li {
+        font-size: 12px;
+        padding-bottom: 5px;
+    }
+    .list2 li {
+        font-size: 12px;
+        padding-bottom: 5px;
+    }
+    .list1 li::before {
+        font-size: 12px;
+        margin-right: 12px;
+    }
+    .list2 li::before {
+        font-size: 13px;
+        margin-right: 12px;
+    }
+    .p-button {
+        padding-top: 10px;
+    }
+    .p-button button {
+        font-size: 12px;
+        padding: 8px 10px;
+    }
+    .project-all {
+        height: 340px;
+    }
+    .t-pic {
+        height: 180px;
+    }
+    .t-all {
+        padding-bottom: 30px;
+    }
+    .t-head h1 {
+        font-size: 20px;
+    }
+    .t-pic h2 {
+        font-size: 12px;
+        padding-top: 5px;
+        margin-left: 8px;
+    }
+    .t-pic h3 {
+        font-size: 9px;
+        padding-top: 3px;
+        margin-left: 10px;
+    }
+    .subscribe h3 {
+        font-size: 15px;
+    }
+    .subscribe h1 {
+        font-size: 26px;
+        padding-bottom: 20px;
+    }
+    .s-email {
+        width: 140px;
+        height: 30px;
+        font-size: 15px;
+        padding: 0px 8px;
+        margin-right: 5px;
+    }
+    .submit {
+        width: 90px;
+        height: 40px;
+        font-size: 14px;
+    }
+    .e-para h1 {
+        font-size: 25px;
+        margin-left: 25px;
+    }
+    .e-para p {
+        font-size: 15px;
+    }
+    .e-text h2 {
+        font-size: 16px;
+        margin-bottom: 5px;
+    }
+    .e-text h5 {
+        font-size: 11px;
+        line-height: 20px;
+    }
+    .e-pic img {
+        height: 110px;
+    }
+    .e-box {
+        height: 110px;
+    }
+    .user {
+        padding: 20px 10px;
+    }
+    .user-head h2 {
+        font-size: 16px;
+        padding-bottom: 2px;
+    }
+    .user-head h1 {
+        font-size: 17px;
+    }
+    .user-box {
+        padding: 15px 10px;
+        height: 165px;
+    }
+    .user-box p {
+        font-size: 13px;
+        line-height: 20px;
+    }
+    .user-box p::before {
+        left: 2px;
+        font-size: 50px;
+        top: 0px;
+    }
+    .user-box {
+        padding: 15px 10px;
+        height: 165px;
+        margin-bottom: 28px;
+    }
+    .user-pic img {
+        width: 30px;
+    }
+    .user-text h3 {
+        font-size: 10px;
+        padding-bottom: 2px;
+    }
+    .user-text h4 {
+        font-size: 10px;
+    }
+    .contact-map iframe {
+        width: 261px;
+        height: 270px;
+    }
+    .contact-form h1 {
+        font-size: 20px;
+    }
+    .contact-form p {
+        font-size: 12px;
+        line-height: 20px;
+    }
+    .c-email {
+        width: 100%;
+        height: 25px;
+        padding: 0px 10px;
+        font-size: 12px;
+    }
+    .c-name {
+        height: 25px;
+        width: 48%;
+        margin-right: 2%;
+        font-size: 12px;
+        padding: 0px 10px;
+    }
+    .c-nubmber {
+        width: 47%;
+        height: 25px;
+        padding: 0px 10px;
+        font-size: 12px;
+    }
+    .message {
+        width: 93%;
+        height: 50px;
+        padding: 10px;
+        font-size: 15px;
+    }
+    .send {
+        margin-top: 20px;
+        padding: 5px 99px;
+        font-size: 15px;
+        letter-spacing: 2px;
+    }
+    .footer {
+        padding: 15px 0px;
+    }
+    .footer h1 {
+        font-size: 12px;
+    }
+}
